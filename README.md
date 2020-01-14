@@ -1,5 +1,6 @@
-# FoP-T1-Assignment-2020
-A simple arithmetic interpreter... I guess?
+# IS50001C: Foundations of Programming (2019-20) 
+## / Term 1 Assignment /
+It's supposed to be a simple arithmetic interpreter... I guess? it doesn't even do division...
 
 ![GRADE](https://i.imgur.com/7spzZZF.png)
 
